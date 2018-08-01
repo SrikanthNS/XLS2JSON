@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#html-table {
+  border: 1pt solid;
+  border-color: darkgray;
+  height: 1000px;
+  width: 75%;
+  padding: 10px;
+  margin: auto;
+}
